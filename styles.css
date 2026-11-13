@@ -338,8 +338,8 @@
     .chip{background:rgba(20,15,12,.55);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,.2);color:#fff;font-size:.78rem;font-weight:500;padding:7px 12px;border-radius:999px;display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
     .chip b{color:var(--turmeric)}
     .chip .dot{width:8px;height:8px;border-radius:50%;background:#4ade80}
-    .hero-copy{position:relative;z-index:1;margin-top:-18px}
-    .hero .pill{font-size:.8rem;padding:6px 12px 6px 9px;margin-bottom:4px}
+    .hero-copy{position:relative;z-index:2;margin-top:-18px}
+    .hero .pill{font-size:.8rem;padding:6px 12px 6px 9px;margin-bottom:4px;background:rgba(20,15,12,.6);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
 
     .hero .kannada{margin:14px 0 6px;font-size:1.05rem}
     .hero h1{font-size:2.9rem;margin-bottom:12px;line-height:1.02}
